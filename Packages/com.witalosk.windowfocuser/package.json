@@ -1,0 +1,17 @@
+{
+  "name": "com.witalosk.windowfocuser",
+  "displayName": "Window Focuser",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Focusing window for Windows (Unity)",
+  "author": {
+    "name": "witalosk",
+    "url": "https://github.com/witalosk"
+  },
+  "keywords": [
+    "Unity",
+    "Windows",
+    "Window"
+  ],
+  "samples": []
+}
