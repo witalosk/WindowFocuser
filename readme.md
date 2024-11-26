@@ -9,6 +9,9 @@ Focusing on the window you want to focus on.
 4. Enter `https://github.com/witalosk/WindowFocuser.git?path=Packages/com.witalosk.windowfocuser`
 
 ## Usage (C#)
+```csharp
+    WindowUtility.FocusWindow("targetProcessName");
+```
 
 ## Usage (Unity)
 1. Add `WindowFocuser` prefab to your scene.
